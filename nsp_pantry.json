@@ -1313,6 +1313,16 @@
         "Vector Art",
         "Voxel",
         "Watercolor",
+        "hatched",
+        "hatch",
+        "Serigraphy",
+        "Lithograph",
+        "Feather Tip Pen",
+        "Technical drawing",
+        "Architectural design",
+        "Outline",
+        "Calcography",
+        "Blue-print",
         "Woodcut"
 
     ],
@@ -5376,7 +5386,6 @@
         "Zomp"
     ],
     "artist": [
-        "Serge Birault",
         "A.J.Casson",
         "Aaron Douglas",
         "Aaron Horkey",
@@ -6656,6 +6665,7 @@
         "Heinrich Lefler",
         "Heinz Edelmann",
         "Helen Frankenthaler",
+        "Helene Beland",
         "Helene Knoop",
         "Helene Schjerfbeck",
         "Helio Oiticica",
@@ -7411,6 +7421,7 @@
         "Sean Yoro",
         "Seb Mckinnon",
         "Sebastian Errazuriz",
+        "Serge Birault",
         "Serge Marshennikov",
         "Shaddy Safadi",
         "Shaun Tan",
